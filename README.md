@@ -5,35 +5,35 @@ backup oficial do north america rp mta-sa, um servidor com a interface em html, 
 https://youtu.be/tO7gklMcM8k
 
 ----------------------------------------------------------------------------------------
-GUIA DE CONFIGURAÇÃO/INFORMAÇÔES
+PRZEWODNIK KONFIGURACJI/INFORMACJI
 ----------------------------------------------------------------------------------------
 
-- configure o seu banco de dados mysql no arquivo (an_connect) serverCode.lua
+skonfiguruj swoją bazę danych mysql w pliku (an_connect) serverCode.lua
 
-- configure o log do servidor no arquivo (an_discordlog) reds.lua
+skonfiguruj plik logowania do serwera (an_discordlog) reds.lua
 
-- configure itens/grupos no arquivo (an_account) redh.lua
+skonfiguruj pozycje/grupy w pliku (an_account) redh.lua
 
-- veja/edite comandos admin no arquivo (an_admin) reds.lua
+przeglądaj/edytuj polecenia administratora w pliku (an_admin) reds.lua
 
-- adicione/remova ou edite veículos da loja no arquivo (an_vehicles) redh.lua
+dodawać/usuwać lub edytować pojazdy w sklepie w pliku (an_vehicles) redh.lua
 
-- adicione/remova ou edite garagens no arquivo (an_vehicles) redh.lua
+dodawać/usuwać lub edytować garaże w pliku (an_vehicles) redh.lua
 
-- edite garagens de organizações/aluguel no arquivo (an_rentalgarage) redh.lua
+edytuj organizacje/wynajem garaży w pliku (an_rentalgarage) redh.lua
 
-- edite blips no arquivo (an_radar) redh.lua
+edytuj znaczniki w pliku (an_radar) redh.lua
 
-- edite missões da prisão no arquivo (an_prision) redh.lua
+edytuj misje więzienne w pliku (an_prision) redh.lua
 
-- edite comandos de player no arquivo (an_player) reds.lua
+edytuj komendy gracza w pliku (an_player) reds.lua
 
-- você pode ver todos os comandos de player no tablet (f9) in-game ou no arquivo (an_helptbt)
+możesz zobaczyć wszystkie polecenia gracza na tablecie (f9) w grze lub w pliku (an_helptbt)
 
-- não inclui modelagens/veículos.
+nie obejmuje modeli/pojazdów.
 
-- adicione novos moveis na loja de moveis pelo arquivo (an_house_i) redh.lua - necessário configurar posição
+dodaj nowe meble w sklepie meblowym poprzez plik (an_house_i) redh.lua - trzeba skonfigurować pozycję
 
-- explore os scripts...
+zapoznaj się ze skryptami...
 
-*post original, por reddscr(criador)
+*oryginalny post autorstwa reddscr(twórca)
